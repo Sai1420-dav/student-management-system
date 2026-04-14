@@ -19,7 +19,7 @@ public class DBConnection {
                 con = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/studentdb",
                     "root",
-                    "Amma@143"
+                    "*******"
                 );
 
                 System.out.println("Database Connected ✅");
