@@ -28,16 +28,15 @@
 ## 📸 Screenshots
 
 ### 🏠 Dashboard
-
-(Add Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/8b9a6bb0-0a34-4498-9034-b1fa221ff5de" />
 
 ### ➕ Add Student
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/64f3e4c9-f253-4bd5-b8de-97911520fc98" />
 
-(Add Screenshot Here)
 
 ### 📋 Student List
 
-(Add Screenshot Here)
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/7e3d64dc-cfb5-4ce6-9a22-1decc4b9562d" />
 
 ---
 
